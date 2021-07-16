@@ -32,3 +32,10 @@ li a:hover:not(.active) {
 .active {
   background-color: #aa0404;
 }
+
+.header {
+  margin-top: 40px;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+
+}
